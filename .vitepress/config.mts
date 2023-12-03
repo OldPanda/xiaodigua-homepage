@@ -42,7 +42,7 @@ export default defineConfig({
   },
   appearance: false,
   head: [
-    ['link', { rel: 'icon', href: '/public/icon_128.png' }],
+    ['link', { rel: 'icon', href: '/icon_128.png' }],
     [
       'link',
       { rel: 'preconnect', href: 'https://fonts.googleapis.com' }
