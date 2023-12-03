@@ -7,7 +7,7 @@ export default defineConfig({
   lang: "zh-cmn",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/public/icon_128.png',
+    logo: '/icon_128.png',
     nav: [
       { text: '首页', link: '/' },
       { text: '更新日志', link: '/change-logs' }
