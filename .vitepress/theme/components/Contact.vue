@@ -14,7 +14,6 @@
   margin: 0 auto;
   text-align: center!important;
   max-width: 1152px;
-  /* padding: 30px 0; */
 }
 
 .title {
