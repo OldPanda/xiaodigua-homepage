@@ -36,7 +36,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Made with <span style="color: #4565d8;"><i class="fa fa-heart"></i></span> by <a href="https://old-panda.com/" target="_blank">OldPanda</a>',
+      message: 'Made with 💙 by <a href="https://old-panda.com/" target="_blank">OldPanda</a>',
       copyright: 'Copyright © 2023-present'
     }
   },
@@ -54,10 +54,6 @@ export default defineConfig({
     [
       'link',
       { href: 'https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap', rel: 'stylesheet' }
-    ],
-    [
-      'script',
-      { src: 'https://kit.fontawesome.com/404b401dc3.js', crossorigin: 'anonymous' }
     ]
   ]
 })
