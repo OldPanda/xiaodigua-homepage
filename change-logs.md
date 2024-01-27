@@ -1,5 +1,11 @@
 # 更新日志
 
+## 0.2.0
+* 允许用户选择图片格式 - [#9](https://github.com/OldPanda/xiaodigua-homepage/issues/9)
+* 在压缩包中包含帖子的文字内容
+* 修复了某些帖子返回 404 的问题
+* Bug 修复及性能优化
+
 ## 0.1.3
 * 图片自动去水印 - [#5](https://github.com/OldPanda/xiaodigua-homepage/issues/5)
 * 修复了一些 bug 及性能优化
