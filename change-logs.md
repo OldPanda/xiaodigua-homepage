@@ -1,5 +1,9 @@
 # 更新日志
 
+## 0.3.0
+* 修复了在小红书网页版上失灵的问题 - [#17](https://github.com/OldPanda/xiaodigua-homepage/issues/17), [#18](https://github.com/OldPanda/xiaodigua-homepage/issues/18), [#19](https://github.com/OldPanda/xiaodigua-homepage/issues/19), [#20](https://github.com/OldPanda/xiaodigua-homepage/issues/20)
+* Bug 修复及性能优化
+
 ## 0.2.0
 * 允许用户选择图片格式 - [#9](https://github.com/OldPanda/xiaodigua-homepage/issues/9)
 * 在压缩包中包含帖子的文字内容
