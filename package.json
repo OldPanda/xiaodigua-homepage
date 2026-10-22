@@ -1,10 +1,16 @@
 {
   "devDependencies": {
-    "vitepress": "1.0.0-rc.31"
+    "vitepress": "1.6.4"
   },
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
+  },
+  "packageManager": "pnpm@8.15.9",
+  "pnpm": {
+    "overrides": {
+      "vite": "^6.4.4"
+    }
   }
 }
